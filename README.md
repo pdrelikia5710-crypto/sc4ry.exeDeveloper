@@ -1,22 +1,15 @@
 # 🌷 PDR BOT-MD ✿ V1.0.0 ✓
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=true&vCenter=true&lines=PDR+BOT-MD+✿+V1.0.0✓;BOT+MULTI+DEVICE;✰✰✰✰✰" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=true&vCenter=true&lines=PDR+BOT-MD+✿+V1.0.0✓;BOT+MULTI+DEVICE;✰✰✰✰✰" width="100%"" alt="PDR BOT-MD typing banner">
 </p>
-
-<h1 align="center">
 
 <p align="center">
   <img src="./banner.png" alt="PDR BOT-MD V1.0.0" width="720">
 </p>
 
 <p align="center">
-  <a href="#">
-    <img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-red?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
+  <img title="BOT MULTI DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-red?style=for-the-badge">
   <img title="Autor" src="https://img.shields.io/badge/Autor-PDRELIKIA57-red.svg?style=for-the-badge&logo=github">
   <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.0-red.svg?style=for-the-badge&logo=github">
 </p>
@@ -24,7 +17,6 @@
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 </div>
@@ -41,55 +33,34 @@
 
 > Copie e cole apenas um comando por vez e pressione Enter.
 
----
-
 ### 1 - COMANDO 🌸
-
 ```bash
 termux-setup-storage
 ```
-
 > Permita que o Termux acesse seus arquivos.
 
----
-
 ### 2 - COMANDO 🌸
-
 ```bash
 pkg upgrade -y && pkg update -y
 ```
-
 > Se aparecer uma confirmação, digite Y e pressione Enter.
 
----
-
 ### 3 - COMANDO 🌸
-
 ```bash
 pkg install -y ffmpeg nodejs-lts wget tesseract git
 ```
 
----
-
 ### 4 - COMANDO 🌸
-
 ```bash
 cd /sdcard/PDR-BOT-MD && npm start
 ```
-
 > Use esse comando sempre que quiser iniciar o bot.
 
----
-
 ### COMANDO ADICIONAL 🌸
-
 ```bash
 cd /sdcard/PDR-BOT-MD && npm start up
 ```
-
 > Utilize para atualizar o bot, caso essa função esteja implementada na source.
-
----
 
 ## 📞 Suporte
 
@@ -123,4 +94,3 @@ Entre em contato para suporte e informações.
 Licensed under [MIT](./LICENSE).
 
 Todos os direitos reservados.
-</h1>
